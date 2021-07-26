@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EnemyBullet
+  - EnemyOgre
+  - EnemyAlien
+  - PlayerFoot
+  - PlayerHead
+  - Selectable
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
@@ -11,13 +18,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerBullet
+  - PlayerGun
+  - Player
+  - Enemy
+  - EnemyBullet
+  - EnergyOrb
+  - EnemyOgre
   - 
   - 
   - 
